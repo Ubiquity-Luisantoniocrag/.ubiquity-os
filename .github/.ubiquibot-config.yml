@@ -1,7 +1,7 @@
 plugin: ubiquity-os/conversation-rewards
 with:
   evmNetworkId: 100
-  evmPrivateEncrypted: "encrypted-key"
+  evmPrivateEncrypted: "KGeOS6q9IfEIU2umWLexgwai526-YFJ57Ybge-nQmCIj75Llzj-WWk05TInR6kjVb1NENsWqJ0n85gUTXlTtEO12pmkDkFqg_YpXLNTuomJEkPFduG0uH0aSOg6vzzFnh_zo-DnikIo1YCwNqELcSOlOj0ucKN-sZQ"
   erc20RewardToken: "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d"
   dataCollection:
     maxAttempts: 10
